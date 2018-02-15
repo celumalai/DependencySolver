@@ -1,6 +1,6 @@
-# ProjectOrganizer
+# Dependency Solver and Project Organizer
 
- * This is a simple project dependency resolver.
+ * This is a generic project dependency resolver.
  * If there are multiple projects that depend on each other to build,
  * this algorithm will efficiently resolve the order to build the projects
  * sequentially.
